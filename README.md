@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile! 
 
 <p align="center">
-  <img src="https://i.imgur.com/5gUoHtJ.png" width="500px">
+  <img src="https://i.imgur.com/5gUoHtJ.png" width="300px">
 </p>
 
 Hi! 👋this is Crypto Kidzs, blockchain enthusiasts who love to explore new airdrops, testnets, and retroactive rewards. In this profile, you will find resources, tutorials, and scripts related to the latest blockchain airdrop opportunities. Whether you are new to crypto or a seasoned collector, I am here to share my insights and help you stay informed.
