@@ -17,7 +17,7 @@ Hi! 👋this is Crypto Kidzs, blockchain enthusiasts who love to explore new air
 
 ## How to Participate in Airdrops
 
-1. **Follow my repositories**: I regularly update them with details on new and ongoing airdrops.
+1. **Follow my telegram**: I regularly update them with details on new and ongoing airdrops.
 2. **Check the instructions**: Each airdrop has different requirements. Make sure to read the instructions carefully.
 3. **Stay Consistent**: Airdrops often require you to follow social media accounts, join Telegram groups, or complete simple tasks like filling out forms.
 4. **Automate with Scripts**: If you want to make the process easier, check out my automation scripts that can save you time.
